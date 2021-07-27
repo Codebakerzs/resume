@@ -1,0 +1,114 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css');
+/* 
+ */
+ @import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans&display=swap');
+body{
+   margin: 30px 200px 30px 200px;
+   background-image: url(tech.jpeg);
+   /* font-family: 'Quattrocento Sans', sans-serif; */
+   /* font-family: 'Ubuntu', sans-serif;
+   font-family: 'Lora', serif; */
+    /* background: rgba(221, 221, 221, 0.925); */
+}
+
+.Resume{
+    border: 5px;
+    padding-bottom: 0.01rem;
+
+    background:#fff;
+}
+.header{
+    height: 175px;
+    padding: 30px;
+}
+
+.about{
+    font-size: 30px;
+    color:#fff;
+    line-height: 100%;
+    padding: 40px;
+    padding-top: 50px;
+    letter-spacing: 3px;
+    background-color: rgb(75, 75, 75);
+    margin-right: 250px;
+}
+
+.name{
+    font-size: 25px;
+}
+
+.profile{
+    width: 170px;
+    height: 175px;
+
+    float: right;
+    margin: -180px 25px 25px 25px;
+    border: 1px solid rgb(199, 221, 212);
+
+}
+.info{
+    background-color: 	#d9d9d9be;
+    margin: 15px 40px 75px 30px;
+    padding: 20px;
+}
+
+.contactprofile{
+    margin: 10px 10px 30px 15px;
+    padding: 5px;
+    display: flex;
+    
+}
+.heading{
+    font-size: 30px;
+    color:#000;
+    line-height: 150%;
+    letter-spacing: 3px;
+
+}
+
+.Contact{
+    line-height: 150%;
+    
+}
+
+
+.Profiles{
+    margin-left: 100px;
+    max-width: 600px;
+}
+
+.ees{
+    margin: 10px 10px 30px 15px;
+    padding: 5px;
+    display: flex;
+    /* justify-content: space-between; */
+    line-height: 200%;
+        
+}
+
+.Education{
+    margin: 0px 90px 0 0px;
+}
+
+.Expe{
+    margin: 0px 0px 0 60px;
+}
+
+.Language{
+    margin: 0px 0px 0px 200px;
+}
+
+.Proexper{
+    margin: 10px 10px 30px 15px;
+    display: flex;
+    /* justify-content: space-between; */
+    line-height: 150%;
+}
+
+.expyears{
+    margin: 50px 60px 110px 60px;
+    padding: 10px;
+    width: max-content;
+    border: 1px solid rgba(112, 112, 112, 0.589);
+    background: rgb(199, 195, 195);
+}
